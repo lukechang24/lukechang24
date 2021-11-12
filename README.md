@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a software engineer who specializes in Javascript and React. I am always looking for more opportunities to showcase my skills and passion to code. 
 <!--
 **lukechang24/lukechang24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
