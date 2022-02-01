@@ -2,7 +2,7 @@
 
 I am a software engineer who specializes in Javascript and React. I am always looking for more opportunities to showcase my skills and passion to code. When I am not coding, I spend my free time online with friends or playing the piano.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechang24&layout=compact)](https://github.com/lukechang24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukechang24&layout=compact&theme=dark)](https://github.com/lukechang24/github-readme-stats)
 
 Languages/Skills:
 
